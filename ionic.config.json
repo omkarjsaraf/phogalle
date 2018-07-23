@@ -1,0 +1,8 @@
+{
+  "name": "Phogalle",
+  "app_id": "d3eb4939",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
